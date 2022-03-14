@@ -23,7 +23,7 @@ Contact me on [LinkedIn](https://www.linkedin.com/in/felippe-alacoque/)
 
 - 💻 &nbsp; Java | Rest API | MySQL | SQL Server | MongoDb  | PostgreSQL | UML | JPA |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |PrimeNG | Angular
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |PrimeNG | Angular | AWS | DynamoDB
 
 <!--
 **FelippeAlacoque/felippealacoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
